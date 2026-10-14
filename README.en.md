@@ -30,9 +30,6 @@ Cybersecurity student (WSIiZ, Rzeszów, PL) · CCNA · 24/7 homelab.
 **DevOps & Security**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-005792?style=flat) ![nmap](https://img.shields.io/badge/nmap-4682B4?style=flat)
 
-### 📂 Featured projects
-- **[kafka-orders](https://github.com/darksimpp79/kafka-orders)** — event-driven order system (Spring Boot + Kafka).
-- **[ziutekcraft-bot](https://github.com/darksimpp79/ziutekcraft-bot)** — Discord bot for a Minecraft server (Python).
 
 <div align="center">
 
